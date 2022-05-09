@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Irao.Domain.Repositories\Irao.Domain.Repositories.csproj" />
+    <ProjectReference Include="..\Irao.Infrastructure.Store\Irao.Infrastructure.Store.csproj" />
+  </ItemGroup>
+
+</Project>

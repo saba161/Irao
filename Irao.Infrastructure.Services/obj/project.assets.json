@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Irao.Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Irao.Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Irao.Domain.Models.dll": {}
+        }
+      },
+      "Irao.Domain.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Irao.Domain.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Irao.Domain.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Irao.Domain.Repositories.dll": {}
+        }
+      },
+      "Irao.Domain.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Irao.Domain.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Irao.Domain.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Irao.Domain.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Irao.Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../Irao.Domain.Models/Irao.Domain.Models.csproj",
+      "msbuildProject": "../Irao.Domain.Models/Irao.Domain.Models.csproj"
+    },
+    "Irao.Domain.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Irao.Domain.Repositories/Irao.Domain.Repositories.csproj",
+      "msbuildProject": "../Irao.Domain.Repositories/Irao.Domain.Repositories.csproj"
+    },
+    "Irao.Domain.Services/1.0.0": {
+      "type": "project",
+      "path": "../Irao.Domain.Services/Irao.Domain.Services.csproj",
+      "msbuildProject": "../Irao.Domain.Services/Irao.Domain.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Irao.Domain.Repositories >= 1.0.0",
+      "Irao.Domain.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\saba.koguashvili\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Infrastructure.Services\\Irao.Infrastructure.Services.csproj",
+      "projectName": "Irao.Infrastructure.Services",
+      "projectPath": "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Infrastructure.Services\\Irao.Infrastructure.Services.csproj",
+      "packagesPath": "C:\\Users\\saba.koguashvili\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Infrastructure.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\saba.koguashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Domain.Repositories\\Irao.Domain.Repositories.csproj": {
+              "projectPath": "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Domain.Repositories\\Irao.Domain.Repositories.csproj"
+            },
+            "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Domain.Services\\Irao.Domain.Services.csproj": {
+              "projectPath": "C:\\Users\\saba.koguashvili\\source\\repos\\Irao\\Irao.Domain.Services\\Irao.Domain.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

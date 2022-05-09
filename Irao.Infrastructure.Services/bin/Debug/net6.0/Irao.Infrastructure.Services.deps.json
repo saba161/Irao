@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Irao.Infrastructure.Services/1.0.0": {
+        "dependencies": {
+          "Irao.Domain.Repositories": "1.0.0",
+          "Irao.Domain.Services": "1.0.0"
+        },
+        "runtime": {
+          "Irao.Infrastructure.Services.dll": {}
+        }
+      },
+      "Irao.Domain.Models/1.0.0": {
+        "runtime": {
+          "Irao.Domain.Models.dll": {}
+        }
+      },
+      "Irao.Domain.Repositories/1.0.0": {
+        "dependencies": {
+          "Irao.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Irao.Domain.Repositories.dll": {}
+        }
+      },
+      "Irao.Domain.Services/1.0.0": {
+        "dependencies": {
+          "Irao.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Irao.Domain.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Irao.Infrastructure.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Irao.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Irao.Domain.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Irao.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

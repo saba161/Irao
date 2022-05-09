@@ -1,0 +1,15 @@
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\bin\Debug\net6.0\Irao.Domain.Repositories.deps.json
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\bin\Debug\net6.0\Irao.Domain.Repositories.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\bin\Debug\net6.0\Irao.Domain.Repositories.pdb
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.csproj.AssemblyReference.cache
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.AssemblyInfoInputs.cache
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.AssemblyInfo.cs
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\refint\Irao.Domain.Repositories.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.pdb
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\ref\Irao.Domain.Repositories.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\bin\Debug\net6.0\Irao.Domain.Models.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\bin\Debug\net6.0\Irao.Domain.Models.pdb
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Repositories\obj\Debug\net6.0\Irao.Domain.Repositories.csproj.CopyComplete

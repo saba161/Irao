@@ -1,0 +1,15 @@
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\bin\Debug\net6.0\Irao.Domain.Services.deps.json
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\bin\Debug\net6.0\Irao.Domain.Services.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\bin\Debug\net6.0\Irao.Domain.Services.pdb
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\bin\Debug\net6.0\Irao.Domain.Models.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\bin\Debug\net6.0\Irao.Domain.Models.pdb
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.AssemblyInfo.cs
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.csproj.CopyComplete
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\refint\Irao.Domain.Services.dll
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\Irao.Domain.Services.pdb
+C:\Users\saba.koguashvili\source\repos\Irao\Irao.Domain.Services\obj\Debug\net6.0\ref\Irao.Domain.Services.dll

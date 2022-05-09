@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Irao.Domain.Repositories/1.0.0": {
+        "dependencies": {
+          "Irao.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Irao.Domain.Repositories.dll": {}
+        }
+      },
+      "Irao.Domain.Models/1.0.0": {
+        "runtime": {
+          "Irao.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Irao.Domain.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Irao.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
